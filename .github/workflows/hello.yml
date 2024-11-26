@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Echo the message
         run: |
-          echo "Hola :) !"
+          echo "Hola, como estas programacion distribuida 3 :) !"
       - name: Dime la fecha
         run: date
       - run: ls -l
